@@ -1,0 +1,14 @@
+pandas
+scitkit-learn
+numpy
+matplotlib
+seaborn
+statsmodels
+openpyxl
+ntlk
+langdetect
+langid
+wordcloud
+transformers
+torch
+openai
