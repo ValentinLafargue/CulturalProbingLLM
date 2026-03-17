@@ -59,7 +59,7 @@ In our experiments, the temperature was set to 0 most of the time (except using 
 | Mistral Small 3.2 24B | mistralai/Mistral-Small-Instruct-2409 | 4600506f6b13c7ef89e61a54263f4c9bf483de30 |
 | GPT-OSS 20B | openai/gpt-oss-20b | 6cee5e81ee83917806bbde320786a8fb61efebee |
 
-# References
+## References
 
 ```
 
