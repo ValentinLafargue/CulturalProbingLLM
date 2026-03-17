@@ -45,6 +45,20 @@ The github is organised this way:
 Some of the results were too heavy for the Github 50Mo limit, hence they are downloadable here: [drive](https://drive.google.com/drive/folders/1Z0P87BRcV18Fx9HqFy5TBt83D7ig4UJc)
 </details>
 
+## Open source models used
+
+In our experiments, the temperature was set to 0 most of the time (except using the Well-defined prompt), details are given in the Result_Analysis notebook.
+
+| Model | HF ID | Revision |
+|------|------|----------|
+| Qwen 2.5 7B Instruct | Qwen/Qwen2.5-7B-Instruct | a09a35458c702b33eeacc393d103063234e8bc28 |
+| DeepSeek-R1 Distill Qwen 7B | deepseek-ai/DeepSeek-R1-Distill-Qwen-7B | 916b56a44061fd5cd7d6a8fb632557ed4f724f60 |
+| Llama 3.1 8B Instruct | meta-llama/Llama-3.1-8B-Instruct | 0e9e39f249a16976918f6564b8830bc894c89659 |
+| Gemma 3 12B IT | google/gemma-3-12b-it | 96b6f1eccf38110c56df3a15bffe176da04bfd80 |
+| Ministral 8B Instruct | mistralai/Ministral-8B-Instruct-2410 | 2f494a194c5b980dfb9772cb92d26cbb671fce5a |
+| Mistral Small 3.2 24B | mistralai/Mistral-Small-Instruct-2409 | 4600506f6b13c7ef89e61a54263f4c9bf483de30 |
+| GPT-OSS 20B | openai/gpt-oss-20b | 6cee5e81ee83917806bbde320786a8fb61efebee |
+
 # References
 
 ```
