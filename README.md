@@ -3,7 +3,7 @@
 This repository includes the code used to generate our paper results (and more!).
 For more information about the methods and the choice we took in their implementation, we invite you to see our paper.
 
-# Install
+## Install
 To reproduce the experiments, you can simply clone this repository and install the requirements in a new virtual environment as follows:
 
 ```
