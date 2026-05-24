@@ -95,20 +95,4 @@ Profiling sensitive attributes such as gender and ethnicity raises important eth
 
 ```
 
-### Citation
-
-If this was useful in your research, please consider citing our paper:
-
-```
-@misc{lafargue2026probingculturalsignalslarge,
-title={Probing Cultural Signals in Large Language Models through Author Profiling},
-author={Valentin Lafargue and Ariel Guerra-Adames and Emmanuelle Claeys and Elouan Vuichard and Jean-Michel Loubes},
-year={2026},
-eprint={2603.16749},
-archivePrefix={arXiv},
-primaryClass={cs.CL},
-url={https://arxiv.org/abs/2603.16749},
-}
-```
-
 
